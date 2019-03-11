@@ -30,7 +30,6 @@ So if we click on ```<p>```, then we’ll see 3 alerts: p → div → form.
 
 ![image](https://user-images.githubusercontent.com/6780840/27385361-01762f46-56b0-11e7-83e3-1b9b1c82003c.png)
 
- https://jsfiddle.net/sureshalagarsamy/40yp8mry/
  
   Almost all events bubble.
  
@@ -57,7 +56,6 @@ The method for stop bubbling is ```event.stopPropagation()```.
 </body>
 ```
 
-https://jsfiddle.net/sureshalagarsamy/r91aokzx/
   
   
 # Capturing
@@ -114,5 +112,4 @@ Let’s see it in action:
 ![image](https://user-images.githubusercontent.com/6780840/27431486-56668c16-576a-11e7-9517-b2e56d8b62a8.png)
 
 
-https://jsfiddle.net/sureshalagarsamy/rf3wLc5h/
   
